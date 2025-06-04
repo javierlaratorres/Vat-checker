@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>VAT Validation Results</title>
+</head>
+<body>
+    <h1>Validation Completed</h1>
+    <ul>
+        <li><a href="../results/valid.csv">✅ Valid VAT Numbers</a></li>
+        <li><a href="../results/corrected.csv">🛠️ Corrected VAT Numbers</a></li>
+        <li><a href="../results/invalid.csv">❌ Invalid VAT Numbers</a></li>
+    </ul>
+    <a href="../vat_test_form.php">Test Single VAT</a>
+</body>
+</html>
